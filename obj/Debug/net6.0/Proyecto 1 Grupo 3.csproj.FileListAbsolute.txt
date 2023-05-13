@@ -1,0 +1,30 @@
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.csproj.AssemblyReference.cache
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.AssemblyInfoInputs.cache
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.AssemblyInfo.cs
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.csproj.CoreCompileInputs.cache
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.exe
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.deps.json
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.runtimeconfig.json
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.dll
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\ref\Proyecto 1 Grupo 3.dll
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.pdb
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.dll
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\ref\Proyecto 1 Grupo 3.dll
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.pdb
+C:\Users\ferra\Downloads\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.genruntimeconfig.cache
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.exe
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.deps.json
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.runtimeconfig.json
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.dll
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\bin\Debug\net6.0\Proyecto 1 Grupo 3.pdb
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.csproj.AssemblyReference.cache
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.AssemblyInfoInputs.cache
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.AssemblyInfo.cs
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.csproj.CoreCompileInputs.cache
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.dll
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\refint\Proyecto 1 Grupo 3.dll
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.pdb
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\Proyecto 1 Grupo 3.genruntimeconfig.cache
+C:\Users\marj1\Desktop\Me\Uni\4 Semestre\EDA 2\Proyectos de Programacion\Proyecto 1\Programa\Grupo_6_Proyecto_1_Equipo_3\Proyecto 1 Grupo 3\Proyecto 1 Grupo 3\obj\Debug\net6.0\ref\Proyecto 1 Grupo 3.dll
